@@ -239,35 +239,6 @@ h2 span {
 .strong {
   font-weight: 600;
 }
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-menu,
-nav,
-section,
-summary {
-  display: block;
-}
-
-
-a {
-  background-color: transparent;
-}
-
-
-a:active,
-a:hover {
-  outline: 0;
-}
-abbr[title] {
-  border-bottom: 1px dotted;
-}
 
 @media (min-width: 450px) {
   .navigazione a {
