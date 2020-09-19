@@ -61,6 +61,13 @@ body {
 .navigazione a:hover {
   text-decoration: underline;
 }
+.navigazione > li > ul {
+  display: none;
+}
+.navigazione > li:hover > ul {
+  display: block;
+}
+
 
 .navigazione > li:last-of-type {
   margin-right: 0;
@@ -94,7 +101,7 @@ body {
 
 .dropdown {
   position: relative;
-  
+
 }
 
 .dropdown > span {
