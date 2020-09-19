@@ -318,7 +318,7 @@ h2 span {
   margin-bottom: 5px;
   position: relative;
   border-bottom: 2px solid #b78c8e;
-  font-size: 18px;
+  font-size: 17px;
   white-space: nowrap;
   color: #ffb6c1;
 }
@@ -368,7 +368,7 @@ h2 span {
 
 .timeline li p {
   padding: 0 45px;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .timeline li p:last-of-type {
