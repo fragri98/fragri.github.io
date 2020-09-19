@@ -94,8 +94,7 @@ body {
 
 .dropdown {
   position: relative;
-  cursor: pointer;
-
+  
 }
 
 .dropdown > span {
